@@ -1,8 +1,10 @@
+# React Application
+
+This project is a React application bootstrapped using Create React App (CRA). It provides a modern setup with zero configuration to help you start building React applications quickly.
+
 # Getting Started with Create React App
 
 Follow the steps below to set up and run the project locally.
-
----
 
 ## Prerequisites
 
@@ -11,17 +13,15 @@ Make sure you have the following installed:
 - **Node.js** (v14 or later recommended)
 - **npm** (comes with Node.js)
 
----
-
 ## Installation
 
 ### 1. Clone the repository
 
-git clone https://github.com/Deekubusi/deekubusi-ecommerce-frontend.git
+### 'git clone https://github.com/Deekubusi/deekubusi-ecommerce-frontend.git'
 
 ### 2.Installation
 
-npm install
+### `npm install`
 
 ## Available Scripts
 
