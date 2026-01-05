@@ -17,7 +17,7 @@ Make sure you have the following installed:
 
 ### 1. Clone the repository
 
-### 'git clone https://github.com/Deekubusi/deekubusi-ecommerce-frontend.git'
+### `git clone https://github.com/Deekubusi/deekubusi-ecommerce-frontend.git`
 
 ### 2.Installation
 
