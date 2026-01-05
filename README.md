@@ -2,19 +2,24 @@
 
 Follow the steps below to set up and run the project locally.
 
-Prerequisites
+---
+
+## Prerequisites
 
 Make sure you have the following installed:
 
-Node.js (v14 or later recommended)
+- **Node.js** (v14 or later recommended)
+- **npm** (comes with Node.js)
 
-npm (comes with Node.js)
+---
 
-1. To Clone the repository:
+## Installation
+
+### 1. Clone the repository
 
 git clone https://github.com/Deekubusi/deekubusi-ecommerce-frontend.git
 
-2.Install dependencies:
+### 2.Installation
 
 npm install
 
